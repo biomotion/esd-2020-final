@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Model files
+*.dat
+*.yaml
+*.xml
